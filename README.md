@@ -16,4 +16,4 @@ Finally summarize the audit reports produced by security-auditor agent instances
 # Analyzed programs
 
 1. https://github.com/Kamino-Finance/scope
-   - Result:
+   - Result: https://github.com/yurushao/scope/blob/claude/solana-program-detection-01TGphUdounAbPNrcJuk8XC4/SECURITY_AUDIT_REPORT.md
